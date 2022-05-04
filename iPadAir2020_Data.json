@@ -1,4 +1,4 @@
-"iPadAir":[
+{"iPadAir":[
         { "id":"A001", "color": "太空灰色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
         { "id":"A002", "color": "粉紅色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
         { "id":"A003", "color": "紫色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
@@ -49,3 +49,4 @@
     { "id":"D003", "color": "紫色",  "price": 23900, "storage":"256GB", "network": "Cellular", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
     { "id":"D005", "color": "星光色",  "price": 23900, "storage":"256GB", "network": "Cellular", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" }
 ]
+}
