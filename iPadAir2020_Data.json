@@ -19,7 +19,7 @@
         { "id":"D003", "color": "紫色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
         { "id":"D004", "color": "藍色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"blue.jpg","colorpic":"bluecolor.jpg" },
         { "id":"D005", "color": "星光色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" }
-    ]
+    ],
 "iPad":[
     { "id":"A001", "color": "太空灰色",  "price": 10500, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
     { "id":"A002", "color": "銀色",  "price": 10500, "storage":"64GB", "network": "Wi-Fi", "picture":"silver.jpg","colorpic":"silvercolor.jpg" },
@@ -29,7 +29,7 @@
     { "id":"C002", "color": "銀色",  "price": 14500, "storage":"64GB", "network": "Cellular", "picture":"silver.jpg","colorpic":"silvercolor.jpg" },
     { "id":"D001", "color": "太空灰色",  "price": 19000, "storage":"256GB", "network": "Cellular", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
     { "id":"D002", "color": "銀色",  "price": 19000, "storage":"256GB", "network": "Cellular", "picture":"silver.jpg","colorpic":"silvercolor.jpg" }
-]
+],
 
 "iPadmini":[
     { "id":"A001", "color": "太空灰色",  "price": 14900, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
