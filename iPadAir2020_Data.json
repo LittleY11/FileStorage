@@ -1,28 +1,26 @@
-iPadAir
-[
-    { "id":"A001", "color": "太空灰色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
-    { "id":"A002", "color": "粉紅色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
-    { "id":"A003", "color": "紫色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
-    { "id":"A004", "color": "藍色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"blue.jpg","colorpic":"bluecolor.jpg" },
-    { "id":"A005", "color": "星光色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" },
-    { "id":"B001", "color": "太空灰色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
-    { "id":"B002", "color": "粉紅色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
-    { "id":"B003", "color": "紫色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
-    { "id":"B004", "color": "藍色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"blue.jpg","colorpic":"bluecolor.jpg" },
-    { "id":"B005", "color": "星光色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" },
-    { "id":"C001", "color": "太空灰色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
-    { "id":"C002", "color": "粉紅色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
-    { "id":"C003", "color": "紫色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
-    { "id":"C004", "color": "藍色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"blue.jpg","colorpic":"bluecolor.jpg" },
-    { "id":"C005", "color": "星光色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" },
-    { "id":"D001", "color": "太空灰色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
-    { "id":"D002", "color": "粉紅色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
-    { "id":"D003", "color": "紫色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
-    { "id":"D004", "color": "藍色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"blue.jpg","colorpic":"bluecolor.jpg" },
-    { "id":"D005", "color": "星光色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" }
-]
-iPad
-[
+"iPadAir":[
+        { "id":"A001", "color": "太空灰色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
+        { "id":"A002", "color": "粉紅色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
+        { "id":"A003", "color": "紫色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
+        { "id":"A004", "color": "藍色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"blue.jpg","colorpic":"bluecolor.jpg" },
+        { "id":"A005", "color": "星光色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" },
+        { "id":"B001", "color": "太空灰色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
+        { "id":"B002", "color": "粉紅色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
+        { "id":"B003", "color": "紫色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
+        { "id":"B004", "color": "藍色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"blue.jpg","colorpic":"bluecolor.jpg" },
+        { "id":"B005", "color": "星光色",  "price": 22900, "storage":"256GB", "network": "Wi-Fi", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" },
+        { "id":"C001", "color": "太空灰色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
+        { "id":"C002", "color": "粉紅色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
+        { "id":"C003", "color": "紫色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
+        { "id":"C004", "color": "藍色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"blue.jpg","colorpic":"bluecolor.jpg" },
+        { "id":"C005", "color": "星光色",  "price": 22900, "storage":"64GB", "network": "Cellular", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" },
+        { "id":"D001", "color": "太空灰色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
+        { "id":"D002", "color": "粉紅色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
+        { "id":"D003", "color": "紫色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
+        { "id":"D004", "color": "藍色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"blue.jpg","colorpic":"bluecolor.jpg" },
+        { "id":"D005", "color": "星光色",  "price": 27900, "storage":"256GB", "network": "Cellular", "picture":"starlight.jpg","colorpic":"starlightcolor.jpg" }
+    ]
+"iPad":[
     { "id":"A001", "color": "太空灰色",  "price": 10500, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
     { "id":"A002", "color": "銀色",  "price": 10500, "storage":"64GB", "network": "Wi-Fi", "picture":"silver.jpg","colorpic":"silvercolor.jpg" },
     { "id":"B001", "color": "太空灰色",  "price": 15000, "storage":"256GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
@@ -32,8 +30,8 @@ iPad
     { "id":"D001", "color": "太空灰色",  "price": 19000, "storage":"256GB", "network": "Cellular", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
     { "id":"D002", "color": "銀色",  "price": 19000, "storage":"256GB", "network": "Cellular", "picture":"silver.jpg","colorpic":"silvercolor.jpg" }
 ]
-iPadmini
-[
+
+"iPadmini":[
     { "id":"A001", "color": "太空灰色",  "price": 14900, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.jpg","colorpic":"graycolor.jpg" },
     { "id":"A002", "color": "粉紅色",  "price": 14900, "storage":"64GB", "network": "Wi-Fi", "picture":"pink.jpg","colorpic":"pinkcolor.jpg" },
     { "id":"A003", "color": "紫色",  "price": 14900, "storage":"64GB", "network": "Wi-Fi", "picture":"purple.jpg","colorpic":"purplecolor.jpg" },
